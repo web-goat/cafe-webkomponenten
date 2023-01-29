@@ -2,8 +2,8 @@ import { Component, Prop, h } from '@stencil/core';
 import { format } from '../../utils/utils';
 
 @Component({
-  tag: 'my-component',
-  styleUrl: 'my-component.css',
+  tag: 'speisekarte',
+  styleUrl: 'speisekarte.css',
   shadow: true,
 })
 export class MyComponent {
